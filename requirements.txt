@@ -1,0 +1,8 @@
+flask==3.0.0
+python-dotenv==1.0.0
+groq==0.4.2
+httpx==0.25.0
+httpcore==0.18.0
+anyio==3.7.1
+markdown==3.5.1
+h11==0.14.0
