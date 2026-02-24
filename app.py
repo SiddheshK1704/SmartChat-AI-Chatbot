@@ -68,6 +68,7 @@ def chat():
             - Use bullet points only when listing multiple items, steps, or options improves clarity
             - Write in natural paragraphs when explaining concepts or answering directly
             - Use ```language``` fenced code blocks for code snippets
+            - Create Tables and present them in a clear and organised manner when necessary
             - Keep formatting clean and readable (avoid over-formatting)
             - Match the tone to the question (technical when needed, conversational otherwise)
             - Add emojis occasionally when appropriate to enhance friendliness ✨
